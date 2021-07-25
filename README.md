@@ -4,6 +4,7 @@ It is 30 days 30 hours program and 1 project is included in this bootcamp
 #Project title - Price Comaprision Between Amazon, Flipkart & Paytm
 
 Day1 - Insalling Python and execute simple programs
+
 Day2 - String 
 Day3 - Simple Tkinter registration Form 
 Day4 - Variables & Data Types
