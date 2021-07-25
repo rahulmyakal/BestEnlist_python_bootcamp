@@ -1,7 +1,7 @@
 # BestEnlist_python_bootcamp
 It is 30 days 30 hours program and 1 project is included in this bootcamp
 
-#Project title - Price Comaprision Between Amazon, Flipkart & Paytm
+# Project title - Price Comaprision Between Amazon, Flipkart & Paytm
 
 Day1 - Insalling Python and execute simple programs
 
@@ -109,6 +109,7 @@ Day27 - Request & Beautiful Soup module for Web Scraping
 
 Day28 - Multithreaded Programming
 
-Day29 - Rock, Paper & Scissor Game 
+Day29 - Number Guessing Game 
 
-Day30 - Number Guessing Game 
+Day30 - Rock, Paper & Scissor Game 
+
